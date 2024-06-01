@@ -1,7 +1,5 @@
 # CompMembros
 
-<img src="imagem.png" alt="Exemplo imagem">
-
 > Projeto mobile em React-native para o desenvolvimento de um aplicativo de Cadastro e listagem dos membros da CompJunior UFLA.
 
 ## 💻 Rodando o projeto
